@@ -1,0 +1,13 @@
+html, body {
+    width: 100%
+}
+
+body {
+    text-align: center;
+    background:rgb(232, 255, 255);
+}
+
+p, h3 {
+    font-size: 30px;
+    color:rgb(232, 101, 123);
+}
