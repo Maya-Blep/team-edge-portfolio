@@ -39,3 +39,8 @@ a {
 a:hover {
     color: rgb(255, 143, 182);
 }
+
+jpg {
+    border: 5px solid rgb(225, 96, 141);
+
+}
